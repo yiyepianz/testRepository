@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("第一次使用git");
 		System.out.println("第二次使用git---");
 		System.out.println("这是张三");
+		System.out.println("这是李四");
 	}
 
 }
