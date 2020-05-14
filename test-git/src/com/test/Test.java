@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("第二次使用git---");
 		System.out.println("这是张三");
 		System.out.println("这是李四");
+		System.out.println("这是2015-5-14");
 	}
 
 }
